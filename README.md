@@ -10,8 +10,6 @@ Improve short links
 Improve affiliate reports page
 Correct commission calculation when order is placed
 Add commission info to product detail page
-Improve UI
-Please check our upgrade guide on https://docs.botble.com/affiliate-pro/upgrade.html
 
 Affiliate Pro – Complete Affiliate Marketing System for Botble E-commerce
 Note: Price will be increased after 50 sales (24 more sales left), hurry up!!!
